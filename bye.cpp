@@ -3,6 +3,6 @@
 void main()
 {
 	clrscr();
-	cout<<"Bye World.";
+	cout<<"Bye bye World.";
 	getch();
 }
